@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-number {
+	background-color: pink;
+	font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#idk {
+	color: blue;
+	font-size: 36px;
+}
+
+#idk-pt2 {
+	background-color: lightgreen;
+	font-size: 24px;
+	font-weight: 800;
+}
+
+#odd-three {
+	font-size: 24px;
+}
